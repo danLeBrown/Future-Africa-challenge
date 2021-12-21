@@ -1,0 +1,59 @@
+:root {
+  --primary-color: #3cac70;
+  --primary-bg: rgba(60, 172, 112, 0.5);
+  --secondary-color: #fbbb07;
+  --secondary-bg: rgba(251, 187, 7, 0.5);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+.icon {
+  margin-right: 0.5rem;
+}
+.btn-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-div .btn {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  -ms-border-radius: 0.5rem;
+  -o-border-radius: 0.5rem;
+  text-decoration: none;
+  margin: 0 0.5rem;
+  border: 1px solid var(--primary-color);
+  min-width: 100px;
+  transition: all ease-in-out 250ms;
+  -webkit-transition: all ease-in-out 250ms;
+  -moz-transition: all ease-in-out 250ms;
+  -ms-transition: all ease-in-out 250ms;
+  -o-transition: all ease-in-out 250ms;
+}
+
+.btn-div .action-btn {
+  background: var(--primary-color);
+  box-shadow: 0 0 10px 0 var(--primary-bg);
+  color: #fff;
+}
+
+.btn-div .default-btn {
+  color: var(--primary-color);
+  box-shadow: 4px 4px var(--primary-color);
+}
+.router-view {
+  margin-top: 100px;
+}
+
+.btn-div .default-btn:hover {
+  background: var(--primary-color);
+  box-shadow: 0 0 10px 0 var(--primary-bg);
+  color: #fff;
+}

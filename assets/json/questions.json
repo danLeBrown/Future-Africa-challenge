@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+            "title": "Who are venture capitalists?",
+            "options": [
+                "A person or organization that puts money into financial schemes, property, etc. with the expectation of achieving a profit",
+                "A person or firm that provides new businesses with management assistance and investment capital to get things running smoothly",
+                "A person, company, or institution that owns at least one share of a company's stock, known as equity"
+            ],
+            "answer": 2
+        },
+        {
+            "title": "In what ways do venture capitalists get involved with a company?",
+            "options": [
+                "A person or firm that provides new businesses with management assistance and investment capital to get things running smoothly",
+                "By using their investment to buy stakes and positions within new companies",
+                "Ayo"
+            ],
+            "answer": 2
+        },
+        {
+            "title": "What kind of position does the venture capitalist take?",
+            "options": [
+                "A person or firm that provides new businesses with management assistance and investment capital to get things running smoothly",
+                "By using their investment to buy stakes and positions within new companies",
+                "They are viewed as a partner"
+            ],
+            "answer": 3
+        },
+        {
+            "title": "In what ways does a venture capitalist benefit the business?",
+            "options": [
+                "A venture capitalist brings much needed funds into the company without any regular repayment required",
+                "By using their investment to buy stakes and positions within new companies",
+                "They are viewed as a partner"
+            ],
+            "answer": 1
+        },
+        {
+            "title": "What do venture capitalists find attractive?",
+            "options": [
+                "A venture capitalist brings much needed funds into the company without any regular repayment required",
+                "They place just as much weight on the strength of a company’s team of managers as they do on the product or service they sell when determining where to invest their funds",
+                "They are viewed as a partner"
+            ],
+            "answer": 2
+        }
+    ]
+}
