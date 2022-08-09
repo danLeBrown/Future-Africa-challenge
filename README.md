@@ -1,5 +1,7 @@
 # future-africa
 
+<img width="1440" alt="Screen Shot 2022-08-09 at 16 34 01" src="https://user-images.githubusercontent.com/63503344/183694664-104737a5-34f2-4066-9bfe-dbf611173887.png">
+
 ## Build Setup
 
 ```bash
